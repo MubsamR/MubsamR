@@ -1,50 +1,34 @@
-👋 Hi, I'm Mubsam
+👋 Hi, I'm [Mubsam]
 
-🔐 Cyber Security Student | Ethical Hacking Enthusiast | SOC Learner
-📍 From India
+🔐 Cyber Security Student | Ethical Hacking Enthusiast
+🛡️ Focused on Web Security, SOC Fundamentals & Secure Systems
+📍 India
 
 👨‍💻 About Me
 
-🎯 Passionate about Cyber Security & Ethical Hacking
-
-🛡️ Interested in Red Team & Blue Team Operations
-
-🐧 Linux & Kali Linux user
-
-📚 Currently learning Web Security, SIEM & MITRE ATT&CK
-
-💡 Love practicing labs and sharing security projects
+I’m an aspiring Cyber Security professional with a strong interest in ethical hacking, system security, and threat analysis. I enjoy learning through hands-on labs, building small security tools, and continuously improving my defensive and offensive security skills.
 
 🛠️ Skills & Tools
-🔹 Cyber Security
 
-Ethical Hacking
+Cyber Security
 
 Web Application Security
 
 Vulnerability Assessment
 
-Log Analysis
+Basic Penetration Testing
 
-Threat Hunting (Beginner)
+Log Analysis & SOC Fundamentals
 
-🔹 Tools
+Tools
 
-Nmap
+Nmap · Burp Suite · Wireshark
 
-Burp Suite
+Metasploit (Basics) · Kali Linux
 
-Wireshark
+Programming
 
-Metasploit (Basics)
-
-Kali Linux
-
-🔹 Programming
-
-Python
-
-C
+Python · C · Bash (Basics)
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mubsamhruk@gmail.com) 
